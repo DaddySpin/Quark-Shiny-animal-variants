@@ -1,10 +1,4 @@
 global.shiny_entities = [
-    // "tfc:chicken",
-    // "tfc:cow",
-    // "tfc:dolphin",
-    // "tfc:pig",
-    // "tfc:rabbit",
-
 	"minecraft:chicken",
     "minecraft:cow",
     "minecraft:dolphin",
